@@ -1,4 +1,5 @@
 site_name: HPC at Computer Science Department of Sapienza Docs
+site_url: https://rom42pla.github.io/di-uniroma1-hpc-guide/
 nav:
   - Home: index.md
   - User guide:

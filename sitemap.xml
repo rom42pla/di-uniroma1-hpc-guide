@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://rom42pla.github.io/di-uniroma1-hpc-guide/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://rom42pla.github.io/di-uniroma1-hpc-guide/admin_guide/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://rom42pla.github.io/di-uniroma1-hpc-guide/user_guide/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://rom42pla.github.io/di-uniroma1-hpc-guide/user_guide/how_to_connect_to_the_cluster/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://rom42pla.github.io/di-uniroma1-hpc-guide/user_guide/how_to_use_slurm/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+    <url>
+         <loc>https://rom42pla.github.io/di-uniroma1-hpc-guide/user_guide/what_is_slurm/</loc>
+         <lastmod>2025-03-20</lastmod>
+    </url>
+</urlset>

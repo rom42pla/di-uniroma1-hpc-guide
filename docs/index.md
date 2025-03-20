@@ -13,4 +13,4 @@ These docs are split in two, based on which kind of user are you:
 
 # Contacts
 
-- Cluster admin (Romeo Lanzino): [cluster.di@uniroma1.it](mailto:cluster.di@uniroma1.it)
+- Cluster admins: [cluster.di@uniroma1.it](mailto:cluster.di@uniroma1.it)

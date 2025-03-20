@@ -1,0 +1,1 @@
+mkdocs serve --dev-addr localhost:8282

@@ -1,0 +1,23 @@
+site_name: HPC at Computer Science Department of Sapienza Docs
+nav:
+  - Home: index.md
+  - User guide:
+    - How to connect to the cluster: user_guide/how_to_connect_to_the_cluster.md
+    - Slurm:
+      - What is Slurm: user_guide/what_is_slurm.md
+      - How to use Slurm: user_guide/how_to_use_slurm.md
+  - Admin guide: admin_guide.md
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

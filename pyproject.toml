@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "docker"
+version = "0.1.0"
+description = ""
+authors = ["Romeo Lanzino"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+poetry = "^2.1.1"
+mkdocs = "^1.6.1"
+mkdocs-material = "^9.6.9"
+pymdown-extensions = "^10.14.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
